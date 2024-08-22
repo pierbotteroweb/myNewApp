@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! R:\myNewApp\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! /home/runner/work/myNewApp/myNewApp/src/main.ts */"zUnb");
 
 
 /***/ }),
