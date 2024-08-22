@@ -86,7 +86,7 @@ function AppComponent_pre_98_Template(rf, ctx) { if (rf & 1) {
 } }
 class AppComponent {
     constructor() {
-        this.title = 'myNewApp';
+        this.title = 'myNewApp2';
     }
 }
 AppComponent.ɵfac = function AppComponent_Factory(t) { return new (t || AppComponent)(); };
